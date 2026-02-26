@@ -1,27 +1,13 @@
-# Modryn Studio
+<p align="center">
+  <img src="https://modrynstudio.com/brand/logomark.png" height="48" alt="Modryn Studio" />
+</p>
 
-Fast, focused tools for people who don't have time for bad software.
+<p align="center">
+  <strong>Tools for people who don't have time for bad software.</strong><br/>
+  Fast, focused. Shipped one at a time.
+</p>
 
-One tool. Shipped fast. No bloat, no nonsense.
-
----
-
-## Active Tools
-
-| Tool | Status | Description |
-|------|--------|-------------|
-| [SpecifyThat](https://specifythat.com) | Beta | Turn a vague idea into a build-ready spec in 30 minutes |
-| Trend Detector | Building | Spots rising search trends before they peak |
-
----
-
-## How It Works
-
-1. Detect a rising trend with real search data
-2. Validate with Reddit/HN complaints
-3. Ship a focused tool in 48 hours
-4. Repeat
-
----
-
-→ **[modrynstudio.com](https://modrynstudio.com)** — tools, build log, and email updates
+<p align="center">
+  <a href="https://modrynstudio.com">modrynstudio.com</a> &nbsp;&middot;&nbsp;
+  <a href="https://x.com/lukehanner">@lukehanner</a>
+</p>
