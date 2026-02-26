@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://modrynstudio.com/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://modrynstudio.com/banner-light.png">
-    <img alt="Modryn Studio" src="https://modrynstudio.com/banner-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://modrynstudio.com/banner-darkv2.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://modrynstudio.com/banner-lightv2.png">
+    <img alt="Modryn Studio" src="https://modrynstudio.com/banner-darkv2.png">
   </picture>
 </p>
 
