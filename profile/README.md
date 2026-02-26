@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://modrynstudio.com/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://modrynstudio.com/banner-light.png">
-    <img alt="Modryn Studio" src="https://modrynstudio.com/banner-dark.png" width="1280">
+    <img alt="Modryn Studio" src="https://modrynstudio.com/banner-dark.png">
   </picture>
 </p>
 
