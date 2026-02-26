@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://modrynstudio.com/brand/logomark.png" height="48" alt="Modryn Studio" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://modrynstudio.com/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://modrynstudio.com/banner-light.png">
+    <img alt="Modryn Studio" src="https://modrynstudio.com/banner-dark.png" width="1280">
+  </picture>
 </p>
 
 <p align="center">
